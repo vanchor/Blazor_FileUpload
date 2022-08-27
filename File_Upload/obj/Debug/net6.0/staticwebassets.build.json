@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ECYqGZ4tYUjNtALw+uDOwKPKW33IODouYji0yWdEyF4=",
+  "Hash": "BmsXPUBsR2NABa8gvik/3rGmcCDkt030xbe9Y4dbmzM=",
   "Source": "File_Upload",
   "BasePath": "_content/File_Upload",
   "Mode": "Default",
@@ -272,6 +272,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\vovan\\source\\repos\\File_Upload\\File_Upload\\wwwroot\\images\\pdf_logo.png",
+      "SourceId": "File_Upload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vovan\\source\\repos\\File_Upload\\File_Upload\\wwwroot\\",
+      "BasePath": "_content/File_Upload",
+      "RelativePath": "images/pdf_logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pdf_logo.png"
+    },
+    {
       "Identity": "C:\\Users\\vovan\\source\\repos\\File_Upload\\File_Upload\\wwwroot\\uploads\\Arobas-Music-Guitar-Pro-7.5.0-Build-1322-x86-06.2018-MULTILANG-RUS.torrent",
       "SourceId": "File_Upload",
       "SourceType": "Discovered",
@@ -287,6 +304,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\Arobas-Music-Guitar-Pro-7.5.0-Build-1322-x86-06.2018-MULTILANG-RUS.torrent"
+    },
+    {
+      "Identity": "C:\\Users\\vovan\\source\\repos\\File_Upload\\File_Upload\\wwwroot\\uploads\\Hozier-Take-Me-To-Church-music.kaminari.info_.zip",
+      "SourceId": "File_Upload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vovan\\source\\repos\\File_Upload\\File_Upload\\wwwroot\\",
+      "BasePath": "_content/File_Upload",
+      "RelativePath": "uploads/Hozier-Take-Me-To-Church-music.kaminari.info_.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Hozier-Take-Me-To-Church-music.kaminari.info_.zip"
     },
     {
       "Identity": "C:\\Users\\vovan\\source\\repos\\File_Upload\\File_Upload\\wwwroot\\uploads\\photo_2022-08-04_16-44-27.jpg",
